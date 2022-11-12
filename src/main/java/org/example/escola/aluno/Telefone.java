@@ -1,4 +1,4 @@
-package escola;
+package org.example.escola.aluno;
 
 public class Telefone {
 
