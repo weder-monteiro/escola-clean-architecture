@@ -1,4 +1,4 @@
-package org.example.escola.aluno;
+package org.example.escola.dominio.aluno;
 
 public class FabricaDeAluno {
 

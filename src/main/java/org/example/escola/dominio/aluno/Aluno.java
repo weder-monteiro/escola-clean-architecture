@@ -1,4 +1,4 @@
-package org.example.escola.aluno;
+package org.example.escola.dominio.aluno;
 
 import java.util.ArrayList;
 import java.util.List;

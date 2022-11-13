@@ -1,6 +1,6 @@
-package org.example.escola.aluno;
+package org.example.escola.dominio.aluno;
 
-import org.example.escola.aluno.Telefone;
+import org.example.escola.dominio.aluno.Telefone;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
